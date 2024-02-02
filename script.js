@@ -230,7 +230,7 @@ function launchOneDrivePicker(action = "query") {
 	var odOptions = {
 		//应用 ID
 		//clientId: "5712d2c8-2c32-4f4f-a5aa-fdc966092171",
-		clientId: "46c7ce1e-f79f-4de4-9453-a1adaeb9fe1b",
+		clientId: "fb9b5c9a-b2cb-4ee9-b4ba-7317167b0dd3",
 		action: action, //share | download | query
 		multiSelect: true,
 		openInNewWindow: true,
